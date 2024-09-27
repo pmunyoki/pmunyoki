@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @pmunyoki
 - 👀 I’m interested in GIS Software Development
-- 🌱 I’m currently working in QGIS plugin Development..
+- 🌱 I have contributed to the development of a QGIS plugin
+- 🌱 I’m currently working as a DevOps Engineer
 - 📫 How to reach me: pmunyoki@protonmail.com
 
 <!---
